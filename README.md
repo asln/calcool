@@ -16,6 +16,30 @@ As of now, the only topic that is supplied and tested is Trigonometry.
 Nov 2014, Ashlyn Kan
 
 
+
 # Screenshots
 
+![alt text](https://github.com/asln/calcool/blob/master/screenshots/1-launch.png)
 
+Launching page of the app. Nothing much--just some cheesy tagline.
+
+![alt text](https://github.com/asln/calcool/blob/master/screenshots/2-menu.png)
+
+Users would choose topics to learn from from this page.
+
+![alt text](https://github.com/asln/calcool/blob/master/screenshots/3-lesson.png)
+
+And go through the lessons.
+
+![alt text](https://github.com/asln/calcool/blob/master/screenshots/4-playground.png)
+
+Then they can go to the Playground where they can practice doing exercises and get hints.
+
+
+
+
+# iOS Logo & Prototype
+
+About 3 months after I finished the first version of this app, Swift had just been released and gaining more popularity. So I decided that I'd be fun try making a prototype iOS-version of this app, as well as a logo. I didn't get far with the Xcode storyboard, but I did make an icon. So here it is, a priceless CalCool iOS icon that has never been used. Who knows I might get to revisit this project sometime in the future.
+
+<img src="https://github.com/asln/calcool/blob/master/iOS/Elements%20from%20Sketch/icon.png" width="150">
