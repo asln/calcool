@@ -1,0 +1,3 @@
+In another window, you’ll see a picture of a triangle with a few strange words that you might not have seen before. Let’s take a few seconds to examine these…
+
+Ok, now that you might have already figured something out, let’s go over it together.. The hypotenuse is the side opposite of the right angle. Now shift your focus to the “angle x.” The side opposite to x is, of course, called “opposite,” and on the same side, that’s called “adjacent” side.
