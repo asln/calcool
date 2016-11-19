@@ -13,7 +13,7 @@ As of now, the only topic that is supplied and tested is Trigonometry.
 **We do not own any of the images used.**
 
 
-Nov 2014, Ashlyn Kan
+Nov 2014, Unchitta Kan
 
 
 
